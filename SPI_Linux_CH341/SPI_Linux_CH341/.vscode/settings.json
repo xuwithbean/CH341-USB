@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.tex": "latex",
+        "ch341_lib.h": "c",
+        "little_endian.h": "c"
+    }
+}
